@@ -7,6 +7,7 @@ Easily can validate Native and Foreigners ID number
 
 <b>
 Usage for online validation:</b>
+
 <code>  TC_Online_Validator _Validator = new  TC_Online_Validator();
 
 var result = _Validator.ValidateForeigner(99999999999, "NAME", "LASTNAME", 1992, 01, 01); 
@@ -14,6 +15,7 @@ var result = _Validator.ValidateForeigner(99999999999, "NAME", "LASTNAME", 1992,
 
 <b>
 Usage for offline validation:</b>
+
 <code>
 TC_Offline_Validator _Validator = new TC_Offline_Validator();
 
