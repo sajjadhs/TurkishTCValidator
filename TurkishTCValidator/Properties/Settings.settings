@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TurkishTCValidator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TurkishTCValidator_tr_gov_nvi_tckimlik_KPSPublic" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx</Value>
+    </Setting>
+    <Setting Name="TurkishTCValidator_tr_gov_nvi_tckimlik1_KPSPublicYabanciDogrula" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tckimlik.nvi.gov.tr/Service/KPSPublicYabanciDogrula.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
