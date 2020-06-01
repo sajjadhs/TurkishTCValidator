@@ -40,5 +40,12 @@ namespace WindowsFormsApp1
             var result = _Validator.ValidateForeigner(99999999999, "NAME", "LASTNAME", 1992, 01, 01);
             MessageBox.Show(result.ToString());
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            TurkishTCValidator.TC_Offline_Validator _Validator = new TurkishTCValidator.TC_Offline_Validator();
+            var result = _Validator.Validate(99999999999);
+            MessageBox.Show(result.ToString());
+        }
     }
 }

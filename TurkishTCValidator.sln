@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurkishTCValidator", "TurkishTCValidator\TurkishTCValidator.csproj", "{1D97BAEE-4037-4E95-AE2F-18371D55C93D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{91859AC9-3E4E-4012-AA0E-A027CDC89076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCTest", "TurkishTCValidator.Example\TCTest.csproj", "{91859AC9-3E4E-4012-AA0E-A027CDC89076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
